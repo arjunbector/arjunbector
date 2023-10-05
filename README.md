@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunbector&show_icons=true&theme=tokyonight&locale=en" alt="arjunbector" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunbector&" alt="arjunbector" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunbector&theme=dark" alt="arjunbector" /></p>
