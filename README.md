@@ -1,5 +1,5 @@
 #  About Me:
-🔭 Working on my web dev skills<br>👯 Looking to collaborate on any novel idea<br>🌱 Currently learning Next JS
+🔭 Working on my web dev skills<br>👯 Looking to collaborate on any novel idea<br>🌱 Currently learning Backend
 
 
 ## Socials:
