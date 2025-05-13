@@ -1,6 +1,6 @@
 # About Me:
 
-🔭 Working on my web dev skills<br>👯 Looking to collaborate on any novel idea<br>🌱 Currently learning Backend
+🔭 Working on my skills<br>👯 Looking to collaborate on any novel idea<br>🛠️ Always down to build something weird and useful<br>🤝 Hit me up for collabs or code banter
 
 ## Socials:
 
